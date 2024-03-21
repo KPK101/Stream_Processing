@@ -2,7 +2,7 @@
 # Readme file for Assignment 1 
 # pkk2125
 
-The core of the application is a class that has various methods to compute the required statistics
+The app has a class that has various methods to compute the required statistics
 
 Initially, we load the data input to the class init function. Then, we compute the required statistics using the methods defined.
 The code contains extensive comments that explain what each method does.
